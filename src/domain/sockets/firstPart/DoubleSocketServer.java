@@ -3,7 +3,7 @@ package domain.sockets.firstPart;
 import java.net.*;
 import java.io.*;
 
-public class SocketServer {
+public class DoubleSocketServer {
     public static void main(String[] args) throws IOException {
 
         ServerSocket serverSocket = null;
