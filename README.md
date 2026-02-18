@@ -1,6 +1,9 @@
 # ARSW-LAB-CallReturn
+# Escuela Colombiana de Ingeniería – Arquitecturas de Software  
 
-## Ejectutar punto sacar el doble con sockets
+En este repositorio se encontrara la solucion a ejercicios propuestos en el laboratorio "CallReturn" en el cual se trataron temas como: ejecución cliente/servidor, sockets y datagramas
+
+## 🕵️ Ejectutar punto sacar el doble con sockets
 
 1. Clonar el repositorio a la maquina local:
    ```bash
@@ -23,7 +26,7 @@
     java domain.sockets.firstPart.DoubleSocketClient
     ```
 
-## Ejectutar punto calcular trigonometria con sockets
+## 🕵️ Ejectutar punto calcular trigonometria con sockets
 
 1. Clonar el repositorio a la maquina local:
    ```bash
@@ -46,7 +49,7 @@
     java domain.sockets.secondPart.FunSocketClient
     ```
 
-## Ejectutar punto WebServeer
+## 🕵️ Ejectutar punto WebServeer
 1. Clonar el repositorio a la maquina local:
    ```bash
     git clone <URL_DEL_REPOSITORIO>
@@ -65,7 +68,7 @@
     ```
 5. Abrir en el navegador y buscar `http://localhost:35000`
 
-## Ejectutar punto DatagramTime
+## 🕵️ Ejectutar punto DatagramTime
 1. Clonar el repositorio a la maquina local:
    ```bash
     git clone <URL_DEL_REPOSITORIO>
@@ -86,26 +89,31 @@
     ```bash
     java domain.datagram.DatagramTimeClient
 
-## Evidencia Ejecucion 
+## 📖 Evidencia Ejecucion 
 
-### Ejercicio 1
+### 📷 Ejercicio 1
 ![alt text](docs/img/ejercicio1.png)
 
-### Ejercicio 2
+### 📷 Ejercicio 2
 ![alt text](docs/img/ejercicio2.png)
 
-### Servidor Cuadrado del numero
+### 📷 Servidor Cuadrado del numero
 
 ![alt text](docs/img/cuadrado.png)
 
-### Servidor calculadora trigonometrica
+### 📷 Servidor calculadora trigonometrica
 
 ![alt text](docs/img/trigonometrica.png)
 
-### Conexion Browser Web Server
+### 📷 Conexion Browser Web Server
 
 ![alt text](docs/img/webServer.png)
 
-### Servidor hora cada 5 seg
+### 📷 Servidor hora cada 5 seg
 
 ![alt text](docs/img/servidorHora.png)
+
+## 🙋 Autor
+
+* **Julian Camilo Lopez Barrero** - [JulianLopez11](https://github.com/JulianLopez11)
+
